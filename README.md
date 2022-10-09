@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Lungelo Bonga Njamela
+- 👀 I’m interested in Android development, Embedded system development, Java programming, Python programming and Engineering. 
+- 🌱 I’m currently learning Electrical and Computer Engineering.
+- 📫 How to reach me: lungelobn@gmail.com
